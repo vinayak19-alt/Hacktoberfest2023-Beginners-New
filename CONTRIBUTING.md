@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+  #### Name: [Vinayak Sharma](https://github.com/vinayak19-alt)
+
+- Place: Uttar Pradesh, India
+- Bio: Mobile Application Developer
+- Affiliation : SRM University
+- GitHub: [Vinayak Sharma](https://github.com/vinayak19-alt)
